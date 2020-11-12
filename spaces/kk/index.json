@@ -11,13 +11,6 @@
         "symbol": "KK",
         "decimals": 18
       }
-    },
-    {
-      "name": "uniswap",
-      "params": {
-        "address": "0x5242EEE92D535d743a50c5c92F4fa3F723B3151e",
-        "symbol": "KK BPT"
-      }
     }
   ],
   "members": [

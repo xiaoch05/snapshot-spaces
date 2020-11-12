@@ -1,7 +1,7 @@
 {
-  "name": "@snapshot-labs/snapshot-spaces",
-  "version": "0.1.0",
-  "repository": "snapshot-labs/snapshot-spaces",
+  "name": "@xiaoch05/snapshot-spaces",
+  "version": "0.1.4",
+  "repository": "xiaoch05/snapshot-spaces",
   "license": "MIT",
   "files": [
     "spaces",
