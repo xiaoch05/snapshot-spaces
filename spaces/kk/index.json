@@ -1,14 +1,14 @@
 {
-  "name": "kk token",
+  "name": "kton token",
   "network": "4",
-  "symbol": "KK",
+  "symbol": "KTON",
   "skin": "kk",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x5242EEE92D535d743a50c5c92F4fa3F723B3151e",
-        "symbol": "KK",
+        "address": "0x9fa6D2b93E0bE09b9F115aBB4978C990659887FD",
+        "symbol": "Kton",
         "decimals": 18
       }
     }
