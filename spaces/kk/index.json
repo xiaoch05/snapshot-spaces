@@ -1,5 +1,5 @@
 {
-  "name": "kton token",
+  "name": "Evolution",
   "network": "4",
   "symbol": "KTON",
   "skin": "kk",
@@ -7,17 +7,20 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x9fa6D2b93E0bE09b9F115aBB4978C990659887FD",
+        "address": "0xDf88f57f1d25DB669E68198aDB54E70ba417bA49",
         "symbol": "Kton",
         "decimals": 18
       }
     }
   ],
   "members": [
-    "0x4ad6e21BEf59268f2CCf10bFa18c20c8C13eD859"
+    "0x4ad6e21BEf59268f2CCf10bFa18c20c8C13eD859",
+	"0x00E3993566b34e5367d1C602439997BD08c11FF7",
+	"0x52386BE2397e8EAc26298F733b390684203fB580",
+	"0x570FCA2c6f902949dBb90664Be5680fEc94A84f6"
   ],
   "filters": {
     "defaultTab": "core",
-    "minScore": 100
+    "minScore": 1
   }
 }
