@@ -1,13 +1,13 @@
 {
   "name": "Evolution",
-  "network": "4",
+  "network": "3",
   "symbol": "KTON",
   "skin": "kk",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xDf88f57f1d25DB669E68198aDB54E70ba417bA49",
+        "address": "0xF2Ea88746C09bc8bBFc41555bf596bD6286B30f6",
         "symbol": "Kton",
         "decimals": 18
       }
