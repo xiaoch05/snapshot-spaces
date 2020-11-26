@@ -2,7 +2,7 @@
   "name": "Evolution Land",
   "network": "3",
   "symbol": "Power",
-  "skin": "kk",
+  "skin": "evolutionland",
   "strategies": [
     {
       "name": "erc20-balance-of",
